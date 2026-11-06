@@ -1,0 +1,30 @@
+{
+  "_meta": {
+    "file": "tools.json",
+    "fungsi": "Utilitas: asisten harian, anime list, tebak, musik, sesi AI, peran panel",
+    "updated": "2026-11-01T02:37:18.763Z"
+  },
+  "users": {},
+  "animelist": {},
+  "tebak": {},
+  "musik": {
+    "tracks": [],
+    "manual": []
+  },
+  "musikuser": {
+    "plays": {}
+  },
+  "aiSession": {},
+  "panelRole": {
+    "reseller": [],
+    "admin": [],
+    "pt": [],
+    "owner": []
+  },
+  "nokosTraffic": {
+    "countries": {}
+  },
+  "geminiIds": [],
+  "botaIds": [],
+  "rstc": {}
+}

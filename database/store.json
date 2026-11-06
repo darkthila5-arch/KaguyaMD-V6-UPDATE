@@ -1,0 +1,50 @@
+{
+  "_meta": {
+    "file": "store.json",
+    "fungsi": "Semua data toko: produk, order, donasi, sewa, sociabuzz, panel (penjualan panel, server, penjual, pembeli, aksi, peran, zanpanel), ledger (riwayat transaksi, pelanggan, donatur, uang masuk, rekap harian, arsip produk & sewa, log perubahan)",
+    "updated": "2026-11-01T02:37:18.763Z"
+  },
+  "users": {},
+  "store": {
+    "products": {},
+    "orders": {},
+    "seq": 0
+  },
+  "merchant": {
+    "seq": 0,
+    "donations": {},
+    "seen": {}
+  },
+  "sewa": {
+    "rentals": {},
+    "orders": {},
+    "seq": 0
+  },
+  "sociabuzz": {
+    "trx": {}
+  },
+  "panel": {
+    "seq": 0,
+    "sales": {},
+    "servers": {},
+    "actions": [],
+    "roleLog": [],
+    "zan": {}
+  },
+  "ledger": {
+    "seq": 0,
+    "totals": {
+      "transaksi": 0,
+      "lunas": 0,
+      "omset": 0,
+      "byKind": {}
+    },
+    "daily": {},
+    "transactions": {},
+    "index": {},
+    "incoming": {},
+    "products": {},
+    "rentals": {},
+    "events": []
+  }
+}

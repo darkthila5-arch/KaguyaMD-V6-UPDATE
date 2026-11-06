@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "file": "bot.json",
+    "fungsi": "Inti bot: user, grup, premium, ban, owner, promosi, jadwal, afk, reminder, statistik, aktivitas",
+    "updated": "2026-11-01T02:37:18.761Z"
+  },
+  "users": {},
+  "groups": {},
+  "promosi": {},
+  "autosw": {},
+  "gctimers": {},
+  "owners": [],
+  "reminders": [],
+  "activity": {}
+}

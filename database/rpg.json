@@ -1,0 +1,32 @@
+{
+  "_meta": {
+    "file": "rpg.json",
+    "fungsi": "Semua data RPG: user rpg, game (rpg, guild, bank, market, party, uno, gaple), dungeon, pasangan, badge, clan, turnamen",
+    "updated": "2026-11-01T02:37:18.762Z"
+  },
+  "users": {},
+  "rpgData": {
+    "chats": {},
+    "settings": {},
+    "simulator": {},
+    "bridge": {
+      "game": {
+        "guild": {},
+        "koboy": {},
+        "uno": {},
+        "gaple": {},
+        "catur": {},
+        "crypto": {},
+        "clangame": {},
+        "judibola": {},
+        "bankCentral": 0,
+        "market": [],
+        "partyList": {},
+        "mailbox": {}
+      }
+    }
+  },
+  "dungeon": {
+    "world": null
+  }
+}
